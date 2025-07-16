@@ -5,7 +5,7 @@ import com.example.Low.Level.design.factory.solution.Transportfactory;
 import java.util.Scanner;
 
 public class TransportService {
-    public static void main(String[] args) {
+    public static void main(String[] args)  {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter transport type:");
         String transportType = sc.nextLine();
